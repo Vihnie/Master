@@ -1,4 +1,4 @@
-# Masterdef 
+# Master 
 calculate_discount(price, discount_percent):
   """Calculates the final price after applying a discount.
 
